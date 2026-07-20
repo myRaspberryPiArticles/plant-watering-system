@@ -27,7 +27,6 @@ My project can be used by clicking either of the two buttons to show a different
 ## Demo
 
 - **Simulate it live:** [https://breadboard.hackclub.com/share/215](https://breadboard.hackclub.com/share/215), runs the firmware in the Breadboard simulator
-- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/215/](https://taniwankenobi.github.io/breadboard-plays/p/215/)
 
 
 ## Schematic
