@@ -2,10 +2,10 @@
 
 
 
+![Plant Watering System](screenshot.png)
 
 
-
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4.4 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~5 hours of work.
 
 
 
@@ -63,7 +63,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 4.4h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 5h of work*
 
 
 
